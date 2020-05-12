@@ -11,7 +11,7 @@ It is for demo'ing at events and will only be updates as needed to express what'
 Again, do not use this unless you're just trying to play with stuff rapidly.
 
 ## Using this
-So you ignored the advise above. Great, we love people that break things!
-The idea is to go into any of the platforms in the `platforms` directory by running `ddev start` from the base of this repo. We've set everything in motion so that you can install HAX on all of the platforms listed (Drupal 6 is weird but rest work). This skips all the compiling and needing to understand where things go.
+So you ignored the advice above. Great, we love people that break things!
+The idea is to go into any of the platforms in the `platforms` directory by running `ddev start` from the base of this repo. We've set everything in motion so that you can install HAX on all of the platforms listed (Drupal 6 is weird but the rest work). This skips all the compiling and needing to understand where things go.
 
-Again, do not use this for productions usage as these versions will fall out of date with other newer versions / releases of the projects in here (HAX included). This is intended to show you an example how to get these up and going if you learn better by picking things apart.
+Again, do not use this for production usage as these versions will fall out of date with other newer versions / releases of the projects in here (HAX included). This is intended to show you an example how to get these up and going if you learn better by picking things apart.
